@@ -1,5 +1,5 @@
 # Financas360
-Teste de programacao para a empresa Financas 360
+Teste de programação para a empresa Finanças 360:
 
 Arquivos referentes a questão 01 - Teste de Klingon:
 - KlingonText.as
