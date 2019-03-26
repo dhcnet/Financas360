@@ -1,0 +1,10 @@
+Resposta questão 01:
+
+Quantidade de preposições no Texto B:
+Resposta: 61 preposições.
+
+Quantidade de verbos no Texto B:
+Resposta: 30 verbos.
+
+Quantidade de verbos a primeira pessoa no Texto B:
+Resposta: 25 verbos na primeira pessoa.
