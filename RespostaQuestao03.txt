@@ -1,0 +1,4 @@
+Resposta questão 03:
+
+Quantos números bonitos distintos existem no Texto B?
+Resposta: 122 números bonitos distintos.
