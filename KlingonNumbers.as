@@ -2,8 +2,7 @@
 	import flash.display.MovieClip;
 	import flash.events.Event;
 	import flash.net.URLLoader;
-	import flash.net.URLRequest;
-	
+	import flash.net.URLRequest;	
 	
 	public class KlingonNumbers extends MovieClip{		
 			
